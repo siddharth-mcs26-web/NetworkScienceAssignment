@@ -15,6 +15,8 @@ The function Calculate_eccentricity(nodes, edges, node=None) is the main functio
 
 ### Assumptions
 #### 1. The network is a connected network
+#### 2. The graph is unweighted
+
 
 ### Execution instructions
 #### 1. Call the function Calculate_eccentricity(nodes, edges, node) with required arguments
